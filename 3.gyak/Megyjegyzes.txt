@@ -1,0 +1,2 @@
+Tulajdonképpen a 2. gyak a feladat része, úgyhogy ide csak a GTKStressTest fog jönni, a 2.gyak mappájába pedig még 
+beszúrom a tényleges 2.gyak feladatát (tehát ugyanazt, csak Windows-on).
