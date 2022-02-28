@@ -1,0 +1,8 @@
+Tulajdonképpen a 2. gyak a feladat része, úgyhogy ide csak a GTKStressTest fog jönni, a 2.gyak mappájába pedig még 
+beszúrom a tényleges 2.gyak feladatát (tehát ugyanazt, csak Windows-on).
+A 4.gyak anyaga már félig kész, azt felteszem így is.
+A VM megadta magát és nem működik, ezért fel kell tennem és intézkednem vele az asztali gépen, ez időt vesz
+igénybe, így lehet késni fogok a feladatokkal.
+
+A betegség miatt az idő jelentős hányadában ágyban feküdtem és aludtam, mert semennyire sem működött az agyam és erőm 
+sem nagyon volt bármit csinálni, ezért nincs még kész minden. Most már jobban vagyok, megcsinálok szépen mindent.
