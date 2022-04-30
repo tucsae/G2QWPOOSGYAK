@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1651326128 source:/home/oem/Desktop/semup/main.c
+	<stdio.h>
+	<stdlib.h>
+	<semaphore.h>
+	<unistd.h>
+	<sys/shm.h>
+	<sys/wait.h>
+	<string.h>
+	<pthread.h>
+	<sys/sem.h>
+

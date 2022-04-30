@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1651319627 source:/home/oem/Desktop/semkill/main.c
+	<stdio.h>
+	<stdlib.h>
+	<semaphore.h>
+	<unistd.h>
+	<sys/shm.h>
+	<sys/wait.h>
+	<string.h>
+	<pthread.h>
+
