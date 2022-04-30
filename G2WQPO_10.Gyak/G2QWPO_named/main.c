@@ -13,7 +13,7 @@ int main()
 char inBuffer[MSIZE];
 int nbytes, fd;
 int pid;
-const void* input="Tucsa Eszter";
+const char* biff="Tucsa Eszter";
 
 
 
@@ -31,7 +31,7 @@ if(pid==0)
 {
     printf("Child: es most beleirok a pipe-ba nyehehe!\n");
     fd=open(PIPE_NAME, O_WRONLY);
-    write(fd, input, MSIZE);
+    write(fd, biff, MSIZE);
     printf("Child: sikeresen belefirkáltam a pipe-ba!\n");
     close(fd);
 }
