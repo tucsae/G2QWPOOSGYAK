@@ -1,9 +1,0 @@
-# depslib dependency file v1.0
-1651317599 source:/home/oem/Desktop/semset/main.c
-	<stdio.h>
-	<stdlib.h>
-	<semaphore.h>
-	<unistd.h>
-	<sys/shm.h>
-	<sys/wait.h>
-
